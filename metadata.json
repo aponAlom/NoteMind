@@ -1,0 +1,6 @@
+{
+  "name": "NoteMind",
+  "description": "A modern academic blogging platform for sharing YouTube classes and protected notes, integrated with Google Sheets and Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
